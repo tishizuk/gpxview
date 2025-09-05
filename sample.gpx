@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Sample GPX" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>サンプルルート</name>
+    <desc>テスト用のサンプルGPXファイル</desc>
+    <trkseg>
+      <trkpt lat="35.6762" lon="139.6503">
+        <ele>10</ele>
+        <time>2023-01-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="35.6765" lon="139.6510">
+        <ele>12</ele>
+        <time>2023-01-01T09:05:00Z</time>
+      </trkpt>
+      <trkpt lat="35.6770" lon="139.6520">
+        <ele>15</ele>
+        <time>2023-01-01T09:10:00Z</time>
+      </trkpt>
+      <trkpt lat="35.6775" lon="139.6530">
+        <ele>18</ele>
+        <time>2023-01-01T09:15:00Z</time>
+      </trkpt>
+      <trkpt lat="35.6780" lon="139.6540">
+        <ele>20</ele>
+        <time>2023-01-01T09:20:00Z</time>
+      </trkpt>
+      <trkpt lat="35.6785" lon="139.6550">
+        <ele>22</ele>
+        <time>2023-01-01T09:25:00Z</time>
+      </trkpt>
+      <trkpt lat="35.6790" lon="139.6560">
+        <ele>25</ele>
+        <time>2023-01-01T09:30:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
